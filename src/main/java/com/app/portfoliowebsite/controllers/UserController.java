@@ -10,6 +10,6 @@ public class UserController {
 
     @GetMapping("/login")
     public String login(){
-        return "Login here";
+        return "Login here to your dashboard";
     }
 }
