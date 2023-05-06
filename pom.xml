@@ -59,7 +59,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>portfolio</finalName>
+        <finalName>springboot-project</finalName>
     </build>
 
 </project>
